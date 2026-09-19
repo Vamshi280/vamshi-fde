@@ -63,7 +63,7 @@ dotnet run --project eval/EvalRunner -- promptdefense
 env → numeric value found on a threshold/transfer/wire line in the policy
 file → default 1000. Participants put their real number in
 `governance/policy.yaml` (e.g. `amount_cents > 150000`); the inline
-adversarial suite + HITL pause check then grade it.
+adversarial suite + HITL pause check then grade it. v
 
 ## Verified here vs still open
 
